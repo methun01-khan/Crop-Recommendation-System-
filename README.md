@@ -9,6 +9,12 @@
 An intelligent, data-driven agricultural decision-support system that leverages machine learning to recommend the optimal crop for cultivation based on soil nutrient levels and environmental/meteorological parameters.
 
 ---
+<img width="1915" height="970" alt="Screenshot 2026-11-22 002118" src="https://github.com/user-attachments/assets/aa9e9191-c2fd-4873-9a22-737386408d35" />
+<img width="1890" height="955" alt="Screenshot 2026-11-22 002208" src="https://github.com/user-attachments/assets/12357a0e-9f19-453f-9998-96edb16744b7" />
+<img width="1916" height="843" alt="Screenshot 2026-11-22 002224" src="https://github.com/user-attachments/assets/c123273e-71dd-49b4-a6e9-06da0efb9ebb" />
+<img width="1909" height="714" alt="Screenshot 2026-11-22 002314" src="https://github.com/user-attachments/assets/64d7ba0e-5aa9-416b-b40e-00b364179a9e" />
+
+
 
 ## 📌 Table of Contents
 
